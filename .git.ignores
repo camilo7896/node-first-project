@@ -1,0 +1,42 @@
+# Módulos de Node.js
+node_modules/
+
+# Archivos generados por npm
+package-lock.json
+npm-debug.log
+
+# Directorios específicos de desarrollo (puedes personalizar estos según tu proyecto)
+dist/
+coverage/
+logs/
+temp/
+
+# Archivos de configuración locales
+.env
+
+# Archivos de registro
+*.log
+
+# Dependiendo de tu entorno de desarrollo, puedes querer agregar estos también:
+# .DS_Store (para macOS)
+# Thumbs.db (para Windows)
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.swp
+
+# Archivos de caché
+*.cache
+
+# Archivos de construcción o salida generados por herramientas de construcción
+build/
+out/
+dist/
+
+# Archivos de configuración específicos de tu IDE (Ejemplo para Visual Studio Code)
+.vscode/
+.idea/
+
+# Dependiendo de tu editor/IDE y sistema operativo, es posible que quieras
+# agregar reglas adicionales para ignorar archivos generados o directorios de configuración específicos.
